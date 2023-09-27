@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.addUserContainer{
+  width:80%!important;
+  border-color: black!important;
+  border-style: dotted!important;
+
+}
+.addUserRow{
+  width:50%!important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+}
